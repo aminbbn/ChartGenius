@@ -1,0 +1,5 @@
+{
+  "name": "ChartGenius",
+  "description": "An intelligent article enhancer that uses Gemini AI to analyze text and automatically generate and insert relevant data visualizations inline.",
+  "requestFramePermissions": []
+}
